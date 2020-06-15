@@ -1,2 +1,2 @@
-# OlaMundo
- Primeiro Repsitorio do Curso
+# Olá, Mundo
+ Primeiro Repositório do Curso
