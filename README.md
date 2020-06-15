@@ -1,2 +1,2 @@
 # OlaMundo
- Primeiro Repsitorio do Curso
+ Primeiro Repositorio do Curso
